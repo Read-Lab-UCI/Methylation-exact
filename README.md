@@ -1,0 +1,2 @@
+Recursvie method of building transition matrix for DNA CpG methylation model. Avoid searching interaction between CpGs, allowing increasing efficiency transition matrix building as CpG number increase. Also available in batch mode (building transition matrix for a set of parameter simultaneously), which allow further increase in efficiency when number of CpG is less than 9.
+![alt text](https://github.com/Read-Lab-UCI]/Methylation-exact/blob/main/classicc_recursive.png?raw=true)
